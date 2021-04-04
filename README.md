@@ -1,3 +1,8 @@
+#PokeGame  
+This is a simple React app built while learning React.  
+Deployed here [PokeGame](https://pokegamesm.netlify.app).  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

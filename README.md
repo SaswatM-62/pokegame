@@ -1,4 +1,4 @@
-##PokeGame  
+## PokeGame  
 This is a simple React app built while learning React.  
 Deployed here [PokeGame](https://pokegamesm.netlify.app).  
 
